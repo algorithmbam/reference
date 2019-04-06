@@ -35,3 +35,14 @@ https://www.youtube.com/watch?v=FmXZG7D8nS4
 (풀이) https://nackwon.tistory.com/66
 
 (풀이) https://reakwon.tistory.com/5
+
+## DP 가장 긴 증가하는 부분 수열, Longest Increase Sequence, LIS (11053)
+(문제) https://www.acmicpc.net/problem/11053
+
+(풀이) https://tiredsleeper.tistory.com/33 
+
+(풀이) http://bitly.kr/Inasn
+
+(풀이) https://fatc.club/2017/03/01/1307
+
+(보완) 서버에서 틀릴때는, max 값등 결과 구하는 부분을 루프밖으로 뺴서 계산해 볼것.
