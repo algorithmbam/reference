@@ -1,5 +1,9 @@
 # algorithm_reference
 
+https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw : 나동빈
+
+https://www.youtube.com/user/TheEasyoung : 허민석
+
 ## DP개념
 https://www.youtube.com/watch?v=FmXZG7D8nS4
 
@@ -49,7 +53,10 @@ https://www.youtube.com/watch?v=FmXZG7D8nS4
 
 ## BFS 개념
 https://www.youtube.com/watch?v=66ZKz-FktXo
+
 https://www.youtube.com/watch?v=0v3293kcjTI (Vertext List, Edge List, Adjacency List, 파이선)
 
 ## DFS 개념
 https://www.youtube.com/watch?v=l0Rsu7dziws
+
+https://www.youtube.com/watch?v=0Zsabo7ires (Vertext List, Edge List, Adjacency List, 파이선)
