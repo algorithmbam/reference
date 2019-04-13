@@ -46,3 +46,9 @@ https://www.youtube.com/watch?v=FmXZG7D8nS4
 (풀이) https://fatc.club/2017/03/01/1307
 
 (보완) 서버에서 틀릴때는, max 값등 결과 구하는 부분을 루프밖으로 뺴서 계산해 볼것.
+
+## BFS 개념
+https://www.youtube.com/watch?v=66ZKz-FktXo
+
+## DFS 개념
+https://www.youtube.com/watch?v=l0Rsu7dziws
