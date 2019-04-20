@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=66ZKz-FktXo
 
 https://www.youtube.com/watch?v=0v3293kcjTI (Vertext List, Edge List, Adjacency List, 파이선)
 
-https://www.leafcats.com/108 (Java)
+https://www.leafcats.com/108 (Java, BFS Concept)
 
 ## DFS 개념
 https://www.youtube.com/watch?v=l0Rsu7dziws
